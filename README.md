@@ -33,7 +33,7 @@ Once you have done the final step in the Usage section, you can access the appli
 ## Walkthrough
 
 Watch the walkthrough video at the following link: 
-[Screencastify]()
+[Screencastify](https://floating-island-67376.herokuapp.com/)
 
 ## Questions
 
