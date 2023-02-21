@@ -12,6 +12,7 @@ The text editor application provides the user the change to test IndexedDB, and 
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
+  * [Deployment](#deployment)
   * [Questions](#questions)
 
 ## Installation
@@ -28,12 +29,12 @@ The repository is public, and can be accessed, and adjusted, by anyone with a Gi
 
 ## Tests
 
-Once you have done the final step in the Usage section, you can access the application in your default browser. You can type anything into the text editor, which will then be saved to your IndexedDB called 'jate'. Your text should also persist when you reload the webpage. Lastly, the install button should provide a prompt that will allow the user to download the 'ContactCards' application to your computer including a shortcut on your desktop.
+Once you have done the final step in the Usage section, you can access the application in your default browser. You can type anything into the text editor, which will then be saved to your IndexedDB called 'jate'. Your text should also persist when you reload the webpage. Lastly, the install button should provide a prompt that will allow the user to download the 'Text Editor' application to your computer including a shortcut on your desktop.
 
-## Walkthrough
+## Deployment
 
-Watch the walkthrough video at the following link: 
-[Screencastify](https://floating-island-67376.herokuapp.com/)
+App deployed to Heroku at the following address: 
+[Heroku](https://floating-island-67376.herokuapp.com/)
 
 ## Questions
 
